@@ -1,0 +1,12 @@
+2023-03-20 11:12:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ODNTOLOGOS" no encontrada
+Table "ODNTOLOGOS" not found; SQL statement:
+UPDATE ODNTOLOGOS SET APELLIDO=?, NOMBRE=?, MATRICULA=? WHERE ID=? [42102-214]
+2023-03-20 11:13:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ODNTOLOGOS" no encontrada
+Table "ODNTOLOGOS" not found; SQL statement:
+UPDATE ODNTOLOGOS SET APELLIDO=?, NOMBRE=?, MATRICULA=? WHERE ID=? [42102-214]
+2023-03-20 14:37:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ODNTOLOGOS" no encontrada
+Table "ODNTOLOGOS" not found; SQL statement:
+UPDATE ODNTOLOGOS SET APELLIDO=?, NOMBRE=?, MATRICULA=? WHERE ID=? [42102-214]
